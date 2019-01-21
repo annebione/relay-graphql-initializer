@@ -5,7 +5,6 @@ const {
     RecordSource,
     Store,
   } = require('relay-runtime')
-
   
   // 2
   const store = new Store(new RecordSource())
